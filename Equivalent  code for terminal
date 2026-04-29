@@ -1,3 +1,4 @@
+Activate Cloud Shell
 gcloud compute instances create aprilday1linux \
     --project=project-48ece525-963a-4b07-bb7 \
     --zone=us-central1-f \
